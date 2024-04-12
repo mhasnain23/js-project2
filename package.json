@@ -1,0 +1,12 @@
+{
+  "name": "js-project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project2.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
